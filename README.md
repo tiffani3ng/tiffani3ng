@@ -50,6 +50,7 @@
 
 - **Personal CRM** - AI agent workflow centralizing communication info from emails/calendars/LinkedIn as a single source of truth with an intuitive chatbot interface.
 - **Networking and Outreach Automation** — Multi-agent system with Zapier-triggered RAG pipelines that automate context-aware follow-ups. Designed to grow and manage professional networks while reducing manual admin work.
+- **Agentic Workflow Intelligence** - Python-based workflow optimization tool surfacing hidden bottlenecks in task event logs and producing manager-facing reports on delay drivers and AI automation opportunities.
 - **FlightWatch** — Strategization tool for flight purchases using **optimization + dynamic price learning** to minimize expected airfare.
 - **Money Bull** — Built a **novel linear-algebraic ranking model** for professional rodeo, published and presented at JMM 2025 [<a href="https://doi.org/10.5149/ms.1329">read me!</a>]
 
