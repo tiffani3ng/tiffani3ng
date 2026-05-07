@@ -62,7 +62,7 @@ Claude + Python assistant that converts qualitative user feedback into task/prob
 <p>
   <a href="mailto:tiffaniecng@gmail.com">💌 email</a> ·
   <a href="https://www.linkedin.com/in/tiffanie-ng">💼 linkedin</a> ·
-  <a href="https://orcid.org/0009-0004-4565-4515">📚 orcid</a>
+  <a href="https://orcid.org/0009-0004-4565-4515">📚 orcid</a> ·
   <a href="https://scholar.google.com/citations?user=29hxLaEAAAAJ&hl=en">🎓 google scholar</a>
 </p>
 
